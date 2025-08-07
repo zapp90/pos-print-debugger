@@ -22,7 +22,7 @@ This tool is useful for:
 ##  Installation & Usage
 
 ```bash
-git clone https://github.com/yourusername/pos-print-debugger.git
+git clone https://github.com/zapp90/pos-print-debugger.git
 cd pos-print-debugger
 npm install
 ```
