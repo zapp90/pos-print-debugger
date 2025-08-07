@@ -1,0 +1,15 @@
+{
+  "name": "pos-print-debugger",
+  "version": "1.0.0",
+  "description": "Node.js tool to simulate and debug ESC/POS commands",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "fs-extra": "^11.2.0"
+  }
+}
